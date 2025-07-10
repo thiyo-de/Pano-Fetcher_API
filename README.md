@@ -54,6 +54,7 @@ git clone https://github.com/thiyo-de/Pano-Fetcher_API.git
 cd Pano-Fetcher_API
 npm install
 npm start
+```
 
 ---
 
