@@ -72,3 +72,16 @@ Response Format
   ...
 ]
 ```
+---
+🔌 Plug-and-Play Usage (for Vista & Web Embeds)
+You can directly load this functionality using the following JavaScript snippet:
+```
+function loadSearchScript() {
+  const script = document.createElement('script');
+  script.src = "https://your-cdn-link.com";
+  script.async = true;
+  document.head.appendChild(script);
+}
+
+loadSearchScript();
+```
