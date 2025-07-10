@@ -24,6 +24,7 @@
 
 ## 📁 File Structure
 
+```
 Pano-Fetcher_API/
 │
 ├── routes/
@@ -41,6 +42,7 @@ Pano-Fetcher_API/
 │
 ├── server.js # Main Express app
 └── package.json
+```
 
 
 ---
