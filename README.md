@@ -60,10 +60,6 @@ npm start
 📦 API Usage
 POST /api/pano/fetch
 Request Body
-```
-{
-  "script": "<raw string content of script_general.js>"
-}
 Response Format
 ```
 [
