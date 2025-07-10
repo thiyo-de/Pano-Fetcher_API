@@ -64,7 +64,6 @@ Request Body
 {
   "script": "<raw string content of script_general.js>"
 }
-```
 Response Format
 ```
 [
