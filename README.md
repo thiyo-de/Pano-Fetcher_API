@@ -8,7 +8,7 @@
 
 | Project Preview | API Hosting Preview |
 |-----------------|---------------------|
-| ![Project Preview](./screenshots/image.png) | ![API Hosted](./screenshots/imageApi.png) |
+| ![Project Preview](./screenshots/imagePreview.png) | ![API Hosted](./screenshots/imageApi.png) |
 
 ---
 
@@ -60,16 +60,13 @@ npm start
 📦 API Usage
 POST /api/pano/fetch
 Request Body
-json
-Copy
-Edit
+```
 {
   "script": "<raw string content of script_general.js>"
 }
+```
 Response Format
-json
-Copy
-Edit
+```
 [
   {
     "id": "panorama_001",
@@ -78,3 +75,4 @@ Edit
   },
   ...
 ]
+```
