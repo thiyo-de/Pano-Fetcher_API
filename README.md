@@ -8,7 +8,7 @@
 
 | Project Preview | API Hosting Preview |
 |-----------------|---------------------|
-| ![Project Preview](./screenshot/image.png) | ![API Hosted](./screenshot/imageApi.png) |
+| ![Project Preview](./screenshots/image.png) | ![API Hosted](./screenshots/imageApi.png) |
 
 ---
 
